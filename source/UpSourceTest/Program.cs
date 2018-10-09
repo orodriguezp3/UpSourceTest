@@ -8,7 +8,7 @@ namespace UpSourceTest
         {
             Console.WriteLine("Hello World!");
 
-            Console.Read();
+   
         }
     }
 }
